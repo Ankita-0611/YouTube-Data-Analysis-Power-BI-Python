@@ -8,9 +8,9 @@ Evaluate overall performance by examining key metrics such as total views, total
 ## 2. Content Analysis:
 Identify which categories (e.g., education, social issues) perform best in terms of views, likes, and comments.
 ## 3. Engagement Analysis:
-Analyze how channels have garnered views over the years.
-Assess the engagement rate for different categories.
-Measure audience engagement rates over the years.
+a. Analyze how channels have garnered views over the years.
+b. Assess the engagement rate for different categories.
+c. Measure audience engagement rates over the years.
 ## 4. Duration Analysis:
 Determine which video durations receive the highest views.
 ## 5. Video Performance Analysis:
