@@ -27,7 +27,7 @@ Identify the top five most performing videos by views and likes for each categor
 1. channel_details.csv: Channel Data of all the three Youtube 
 2. video_details.csv : Video Detailes of each channel
 3. YouTube Data Analysis PROBLEM STATEMENT & INSIGHTS.pptx :Presentation outlining the problem statements and insights.
-4. YouTube Data Analysis Dashboards.png : Dashboards ScrenShots
+4. YouTube Data Analysis Dashboards.png : Dashboards ScreenShots
 5. YouTube Data Analysis.pdf : Python script to scrape YouTube channels data
 
 # Conclusion
